@@ -1,0 +1,10 @@
+{
+    "name": "useful-jsons",
+    "author": {
+        "name": "Axle Softworks",
+        "email": "contact@axlesoftworks.com",
+        "url": "https://axlesoftworks.com"
+    },
+    "description": "Useful Scripts used for programming",
+    "version": "1.0.0"
+}
