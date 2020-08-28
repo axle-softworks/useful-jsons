@@ -1,2 +1,6 @@
-import countryDialCode from './data.json';
-export default countryDialCode;
+declare const _default: {
+    name: string;
+    dial_code: string;
+    code: string;
+}[];
+export default _default;

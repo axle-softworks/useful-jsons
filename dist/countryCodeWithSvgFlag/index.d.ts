@@ -1,2 +1,6 @@
-import countryCodeWithSvgFlag from './data.json';
-export default countryCodeWithSvgFlag;
+declare const _default: {
+    name: string;
+    flag: string;
+    number: string;
+}[];
+export default _default;

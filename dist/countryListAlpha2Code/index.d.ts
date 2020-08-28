@@ -1,2 +1,5 @@
-import countryListAlpha2Code from './data.json';
-export default countryListAlpha2Code;
+declare const _default: {
+    name: string;
+    code: string;
+}[];
+export default _default;
